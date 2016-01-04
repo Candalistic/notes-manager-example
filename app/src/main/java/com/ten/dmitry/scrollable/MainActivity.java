@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
         //setting text_size according to settings value
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getBaseContext());
         int size = Integer.parseInt(sharedPreferences.getString("text_size", "18"));
-
-
     }
 
     @Override
