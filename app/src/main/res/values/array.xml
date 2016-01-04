@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clear_all_entry_names">
+        <item>Do not clear</item>
+        <item>Clear All</item>
+    </string-array>
+    <string-array name="clear_all_entry_values">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="text_sizes_entry_values">
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+    </string-array>
+</resources>
